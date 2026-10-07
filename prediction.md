@@ -1,1 +1,1 @@
-[prediction3.pdf](./prediction3.pdf)
+[📄 Xem file Báo cáo Prediction3 (PDF)](./prediction3.pdf)
