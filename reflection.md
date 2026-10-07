@@ -1,1 +1,1 @@
-[📄 Xem file Báo cáo reflection3 (PDF)](./reflection3.pdf)
+[📄 Click để xem/tải file Báo cáo reflection3 (PDF)](./reflection3.pdf?raw=true)

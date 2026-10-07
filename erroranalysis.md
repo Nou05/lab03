@@ -1,1 +1,1 @@
-[📄 Xem file Báo cáo erroranalysis3 (PDF)](./erroranalysis3.pdf)
+[📄 Click để xem/tải file Báo cáo erroranalysis3 (PDF)](./erroranalysis3.pdf?raw=true)

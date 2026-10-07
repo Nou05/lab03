@@ -1,1 +1,1 @@
-[📄 Xem file Báo cáo Calculations3 (PDF)](./calculations3.pdf)
+[📄 Click để xem/tải file Báo cáo calculations3 (PDF)](./calculations3.pdf?raw=true)

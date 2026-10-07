@@ -1,1 +1,1 @@
-[📄 Xem file Báo cáo Prediction3 (PDF)](./prediction3.pdf)
+[📄 Click để xem/tải file Báo cáo prediction3 (PDF)](./prediction3.pdf?raw=true)
